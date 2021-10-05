@@ -64,7 +64,7 @@ def display_board():
 
 
 def intro_message():
-  message = """Hello, this is lightly modified version of Aaron Bernath's code for a basic TicTacToe
+  message = """Hello, this is a lightly modified version of Aaron Bernath's code for a basic TicTacToe
   game played via a CLI terminal. This code was submitted as part of a project for
   Codecademy. The original code can be found here: https://www.youtube.com/watch?v=BHh654_7Cmw 
   and https://replit.com/@aaron_bernath/PythonTicTacToeApp"""
